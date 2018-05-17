@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "zhbhun",
+      "authorEmail": "zhbhun@gmail.com",
+      "authorUrl": "https://github.com/zhbhun/generator-ease"
+    }
+  }
+}
